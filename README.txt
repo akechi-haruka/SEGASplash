@@ -5,6 +5,9 @@ Licensed under the GPLv3.
 ----------
 
 Configurable splash screen that plays a SEGA video.
+Can be used to cover things starting up in the background.
+
+Screenshot: https://puu.sh/K4IGf/51d4f968df.png
 
 Command line args:
 
